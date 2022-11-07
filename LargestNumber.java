@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 //Find the largest element in given array
 
-public class LargestElement {
+public class LargestNumber {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

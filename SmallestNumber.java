@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 // Find smallest element in given array
 
-public class SmallestElement {
+public class SmallestNumber {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
