@@ -14,13 +14,13 @@ public class RemoveDuplicate {
 		
 		
 		//first and fast approach using Hashset
-//		HashSet<Integer> result = new HashSet<Integer>();
-//		
-//		for (Integer integer : arr) {
-//			result.add(integer);
-//		}
-//		
-//		System.out.print(result);
+		HashSet<Integer> result = new HashSet<Integer>();
+		
+		for (Integer integer : arr) {
+			result.add(integer);
+		}
+		
+		System.out.println(result);
 		
 		
 		// Second approach by sorting array and then comparing two consecutive elements;
